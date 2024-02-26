@@ -1,0 +1,15 @@
+- Create or retrieve a patient
+- Create a consultation
+- Given symptoms, provide a list of potential diagnoses and a list of treatment suggestions
+- Given a treatment decision, provide a list of materials, products and step-by-step instructions/protocol
+- Close a consultation
+- Provide and save a recap
+
+We need:
+- A db to store patients, thread IDs, consultation records (dates etc...) and recaps
+- A Backend system
+- A UI: SIMPLE displaying assistant speaking animation and text and general patient info/recap
+
+To do:
+- Create shcemas
+- Create ONE assistant
